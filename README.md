@@ -1,4 +1,4 @@
-# octonull
+![# octonull](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Octonull&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 [![License: BSL 1.0 or Zlib](https://img.shields.io/badge/License-Zlib%20%2F%20BSL%201.0-blue.svg)](https://github.com/intzye/octonull/blob/main/LICENSE)
 [![C++](https://img.shields.io/badge/C%2b%2b%20%28using%20w64devkit,_not_compiling%20in%20gpl%20license%29-23-00009C.svg?style=flat&logo=cplusplus&logoColor=white)](https://github.com/skeeto/w64devkit)
 
