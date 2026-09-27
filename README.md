@@ -4,5 +4,6 @@
 [![C++](https://img.shields.io/badge/C%2b%2b%20%28using%20w64devkit,_not_compiling%20in%20gpl%20license%29-23-00009C.svg?style=flat&logo=cplusplus&logoColor=white)](https://github.com/skeeto/w64devkit)
 
 ![Building on Windows 7](https://img.shields.io/badge/Building_on_Windows_7-orange)
+![Not ready](https://img.shields.io/badge/Status-Not_Ready-red)
 
 hello world, but
