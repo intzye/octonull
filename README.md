@@ -1,6 +1,6 @@
 ![# octonull](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Octonull&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
-<img width="640" height="480" alt="untitled" src="https://github.com/user-attachments/assets/ed101364-db68-4009-b987-c03e1e97c0e6" />
+<img width="425" height="75" alt="Octonull is cool!" src="https://github.com/user-attachments/assets/f54e348b-11f5-4a2f-9afd-6b6624021789" />
 
 
 [![License: BSL 1.0 or Zlib](https://img.shields.io/badge/License-Zlib%20%2F%20BSL%201.0-blue.svg)](https://github.com/intzye/octonull/blob/main/LICENSE)
